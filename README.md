@@ -6,9 +6,9 @@
 
 ## 🖼️ 팀 포스터
 
-<div class="poster"><img src=".jpg" alt="팀 포스터" width="600"/></div>
+<div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
-<p align="center" class="poster-caption"><sub>이정문 화백, 「서기 2000년대 생활의 이모저모」(1965). 출처: <a href="">전자신문 [과학 핫이슈] 1965년에 상상한 2000년대, 지금 그려보는 20년 후</a></sub></p>
+<p align="center" class="poster-caption"><sub>SW01 02팀, 「먼저, 밝힌다」. 2040–2050년, 사람은 지목하지 않고 골목의 상황을 먼저 밝히는 미래. 이미지 일부는 AI로 생성.</sub></p>
 
 
 과도기다 과도기.
